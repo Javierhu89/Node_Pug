@@ -1,0 +1,27 @@
+{
+  "name": "miproyectoexpresspug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0g0l/Node_Pug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l0g0l/Node_Pug/issues"
+  },
+  "homepage": "https://github.com/l0g0l/Node_Pug#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1", 
+    "pug": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
